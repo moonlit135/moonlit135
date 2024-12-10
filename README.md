@@ -2,9 +2,9 @@
 - 👀 I’m interested in coding.
 
 - 🌱 I’m currently learning Javascript and exploring the endless possibilities of programming
- Documenting My learning Jouney here....
+- Documenting My learning Jouney here....
 
--MCA Student at Tezpur University.
+- MCA Student at Tezpur University.
 - you can find me: pallabidas8011@gmail.com
 
 Thanks for visiting!!!
